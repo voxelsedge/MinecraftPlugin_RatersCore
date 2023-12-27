@@ -3,6 +3,9 @@ This plugin adds essential commands to your server experience.
 
 This is primarily a QOL plugin for servers, starting with mc version 1.20.4
 
+# Dependencies
+NONE
+
 # Permission nodes:
 rater193.core.tpa
 

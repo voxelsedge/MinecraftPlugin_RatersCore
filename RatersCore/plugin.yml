@@ -1,0 +1,50 @@
+name: RatersCore
+main: com.rater193.core.RatersCore
+version: 1.0
+api-version: 1.20
+load: POSTWORLD
+prefix: Testing
+authors: [rater193]
+depend: []
+softdepend: []
+commands:
+   tpa:
+      description: This lets you TPA to other players
+      usage: /tpa <playername>
+      permission: rater193.core.tpa
+   tpaccept:
+      description: This lets you accept a TPA request
+      usage: /tpaccpt
+      permission: rater193.core.tpaccept
+   tpdeny:
+      description: This lets you deny a TPA request
+      usage: /tpdeny
+      permission: rater193.core.tpdeny
+   sethome:
+      description: This lets you set a home
+      usage: /sethome <home name>
+      permission: rater193.core.sethome
+   home:
+      description: This lets you goto a home
+      usage: /home <home name>
+      permission: rater193.core.home
+   setspawn:
+      description: This lets to set the default spawn point
+      usage: /setspawn
+      permission: rater193.core.setspawn
+   spawn:
+      description: This lets you teleport to spawn
+      usage: /spawn
+      permission: rater193.core.spawn
+   setwarp:
+      description: This lets you set a warp
+      usage: /setwarp <warp name>
+      permission: rater193.core.setwarp
+   warp:
+      description: This lets you goto a warp
+      usage: /warp <warp name>
+      permission: rater193.core.warp
+   warps:
+      description: This lets list all warps
+      usage: /warps
+      permission: rater193.core.warps

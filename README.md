@@ -1,5 +1,6 @@
 # Raters Core
 This plugin adds essential commands to your server experience.
+
 This is primarily a QOL plugin for servers, starting with mc version 1.20.4
 
 # Permission nodes:
@@ -25,12 +26,21 @@ rater193.core.warps
 
 # Commands added:
 /home <Home Name>
+
 /sethome <Home Name>
+
 /tpa <Player Name>
+
 /tpaccept
+
 /tpdeny
+
 /setspawn
+
 /spawn
+
 /setwarp
+
 /warp
+
 /warps

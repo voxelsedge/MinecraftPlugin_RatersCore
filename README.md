@@ -25,11 +25,11 @@ rater193.core.warp
 rater193.core.warps
 
 # Commands added:
-/home <Home Name>
+/home \<Home Name\>
 
-/sethome <Home Name>
+/sethome \<Home Name\>
 
-/tpa <Player Name>
+/tpa \<Player Name\>
 
 /tpaccept
 
@@ -39,8 +39,8 @@ rater193.core.warps
 
 /spawn
 
-/setwarp
+/setwarp \<Warp Name\>
 
-/warp
+/warp \<Warp Name\>
 
 /warps
